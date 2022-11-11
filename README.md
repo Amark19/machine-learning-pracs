@@ -2,7 +2,7 @@
 ## Machine Learning pracs to... study?
 
 ### Practical shit
-1. Practical 1 - code missing?
+1. Practical 1 - Underfitting and overfitting - just run the cells
 2. Practical 2 - Linear regression - just run the cells
 3. Practical 3 - Logistic regression - social network dataset
 4. Practical 4 
