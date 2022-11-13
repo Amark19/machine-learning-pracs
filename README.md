@@ -12,7 +12,7 @@
 6. Practical 6 - DBSCAN - just run the cells
 7. Practical 7 - PCA/SVD 
 #### few notes for the unexperienced 
-- if some module is missing i.e no module found `xyz` then just add `!pip install xyz` in top of file. Same have done in practical 7
+- if some module is missing i.e no module found `xyz` then just add `!pip install xyz` at the top of the file. Same have done in practical 7
 - ctrl+enter or shift+enter to run cells in ipynb files
 - press 'esc' to enter command mode in jupyter 
     - then press dd to delete cells or other shit idk
