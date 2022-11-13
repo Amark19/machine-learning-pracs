@@ -10,9 +10,9 @@
     2. Decision tree - Social network ads
 5. Practical 5 - SVM - diabetes dataset
 6. Practical 6 - DBSCAN - just run the cells
-7. Practical 7 - PCA/SVD - don't run last cell plt.cm.j, rest runs fine
-
+7. Practical 7 - PCA/SVD 
 #### few notes for the unexperienced 
+- if some module is missing i.e no module found `xyz` then just add `!pip install xyz` in top of file. Same have done in practical 7
 - ctrl+enter or shift+enter to run cells in ipynb files
 - press 'esc' to enter command mode in jupyter 
     - then press dd to delete cells or other shit idk
